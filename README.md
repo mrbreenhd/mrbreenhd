@@ -13,10 +13,11 @@
 
 ### Libraries & Framework :
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 
 ## Stats:
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mrbreenhd&show_icons=true" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbreenhd" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrbreenhd&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbreenhd" />
   <img width="33.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbreenhd&hide_border=true" />
 </p>
