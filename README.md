@@ -18,5 +18,5 @@
 <p align="center">
   <img width="33.3%" src="https://github-readme-stats.vercel.app/api?username=mrbreenhd&show_icons=true" />
   <img width="33.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbreenhd" />
-  <img width="33.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&hide_border=true" />
+  <img width="33.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbreenhd&hide_border=true" />
 </p>
