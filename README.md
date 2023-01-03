@@ -1,3 +1,22 @@
-[![Beans's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbreenhd&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">I don't have a single clue what I am doing</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbreenhd)](https://github.com/anuraghazra/github-readme-stats)
+## ⚡ Technologies
+
+### Languages :
+
+![C#](https://img.shields.io/badge/-Csharp-00599C?style=flat-square&logo=c#)
+![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+### Libraries & Framework :
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+## Stats:
+<p align="center">
+  <img width="33.3%" src="https://github-readme-stats.vercel.app/api?username=mrbreenhd&show_icons=true" />
+  <img width="33.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbreenhd" />
+  <img width="33.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekunnisa&layout=compact&hide_border=true" />
+</p>
