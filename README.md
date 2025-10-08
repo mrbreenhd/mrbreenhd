@@ -20,7 +20,6 @@ I'm Ciaran, I'm no expert, just enjoy exploring random ideas.
 
 ## Stats:
 <p align="center">
-  <img align="left" src="https://github-stats.rosterbuddy.org/api?username=mrbreenhd&count_private=true&show_icons=true&=true
-  &theme=dark" />
-  <img width="30%" align="center" src="https://github-stats.rosterbuddy.org/api/top-langs/?username=mrbreenhd&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=dark" />
+  <img height="200px" src="https://github-stats.rosterbuddy.org/api?username=mrbreenhd&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img height="200px" src="https://github-stats.rosterbuddy.org/api/top-langs/?username=mrbreenhd&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
 </p>
